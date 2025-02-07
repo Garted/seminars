@@ -1,0 +1,7 @@
+.seminarsWrap {
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  gap: 40px;
+  grid-template-columns: repeat(auto-fill, 400px);
+}
